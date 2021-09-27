@@ -18,11 +18,11 @@
 
 ## - 4. Result
 ### Image show  
-* Init
+* Init  
 ![image](https://drive.google.com/uc?export=view&id=1pbOpnpb8QbAEwYHXbdkDOVoiLqj_SMGV)  
-* Creat folder
+* Creat folder  
 ![image](https://drive.google.com/uc?export=view&id=1QWJRtsl4ynD_RT8cN5tu_sAwdhD5yGIN)  
-* Delete folder
+* Delete folder  
 ![image](https://drive.google.com/uc?export=view&id=18DZb-p1iwIqQWeZb4BFGs4LI5HeDkslD)  
 
 ### Video show  
