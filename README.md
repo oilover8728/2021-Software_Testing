@@ -18,7 +18,9 @@
 
 ## - 4. Result
 * Image show  
-
+![image](https://drive.google.com/uc?export=view&id=1pbOpnpb8QbAEwYHXbdkDOVoiLqj_SMGV)  
+![image](https://drive.google.com/uc?export=view&id=1QWJRtsl4ynD_RT8cN5tu_sAwdhD5yGIN)  
+![image](https://drive.google.com/uc?export=view&id=18DZb-p1iwIqQWeZb4BFGs4LI5HeDkslD)  
 
 * Video show  
 [SoftwareTest Demo Video](https://www.youtube.com/watch?v=DAdUgy4v8vU&ab_channel=%E8%AC%9D%E8%87%B3%E6%81%86 "link")
