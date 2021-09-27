@@ -21,7 +21,7 @@
 
 
 * Video show
-
+[SoftwareTest Demo Video](https://www.youtube.com/watch?v=DAdUgy4v8vU&ab_channel=%E8%AC%9D%E8%87%B3%E6%81%86 "link")
 
 ## - 5. Other detail
 因為會有錯誤輸入導致資料夾名稱不合法的問題，所以我們是直接寫定資料夾名稱只能是英文和數字的組合，如果不符合就會直接跳出錯誤提醒
