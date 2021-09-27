@@ -42,6 +42,9 @@
 * copy file 複製出一模一樣的檔案
 * move file 移動到相同的地方
 
-這些都有列入testcase做測試確定沒有問題![image](https://user-images.githubusercontent.com/55472652/134876706-8fcc1920-b761-41a1-840e-b0e773b53e1f.png)
+這些都有列入testcase做測試確定沒有問題
+
+## - 7. Conclusion
+這個專題比較困難的地方主要是java中file的處理方式和interaction，如何判斷file的state等等，我在這個專題學到很多相關的操作和function，另外我覺得實際對一個software寫test是很實用也有趣的體驗。
 
 
